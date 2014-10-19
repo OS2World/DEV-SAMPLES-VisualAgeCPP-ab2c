@@ -1,0 +1,16 @@
+//VBBeginPartInfo: IVBAboutToCloseHandler, "IBM VB About to close handler"
+//VBParent: IHandler
+//VBIncludes: "ivbab2c.hpp"
+//VBPartDataFile: 'VBAB2C.vbb'
+//VBComposerInfo: class, 204, dde4vr30
+//VBPreferredFeatures: this
+//VBEndPartInfo: IVBAboutToCloseHandler
+
+//VBBeginPartInfo: IVBCloseMessageHandler, "IBM VB Close message handler"
+//VBParent: IHandler
+//VBIncludes: "ivbab2c.hpp"
+//VBPartDataFile: 'VBAB2C.vbb'
+//VBComposerInfo: class, 204, dde4vr30
+//VBPreferredFeatures: this
+//VBEndPartInfo: IVBAboutToCloseHandler
+
